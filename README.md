@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Imran
 
-<!--
-**imran-s-creator/imran-s-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Frontend Developer & Designer  
+🎨 Love creating clean UI & editing visuals  
+💡 Currently learning Full Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💻 Frontend Developer (HTML, CSS, JS)
+- 🎨 Photoshop & Video Editing
+- ⚡ Exploring React & modern web tech
+- 📍 Madurai, India
+
+---
+
+## 🛠️ Skills
+- 🌐 HTML | CSS | JavaScript
+- 🎨 UI/UX Design
+- 🖌️ Photoshop
+- 🎬 Video Editing
+
+---
+
+## 🚀 Currently Learning
+- React JS ⚛️  
+- Full Stack Development  
+
+---
+
+## 📊 GitHub Stats
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-s-creatorE&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-s-creator&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email:
+- 🌐 Portfolio: https://imran-portfoliocom.vercel.app/
