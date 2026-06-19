@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-s-creatorE&show_icons=true&theme=radical)
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-s-creator&show_icons=true&theme=radical)
 
 ---
 
