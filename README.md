@@ -10,7 +10,7 @@
 - 💻 Frontend Developer (HTML, CSS, JS)
 - 🎨 Photoshop & Video Editing
 - ⚡ Exploring React & modern web tech
-- 📍 Madurai, India
+- 📍 chennai, India
 
 ---
 
