@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Imran
-<img width="1672" height="941" alt="c91abeae-4135-40da-b8a1-3f9d857e6780" src="https://github.com/user-attachments/assets/6b8bb967-4a13-4cf7-ab1b-a2f66ffd3df3" />
+
 
 🚀 Passionate Frontend Developer & Designer  
 🎨 Love creating clean UI & editing visuals  
