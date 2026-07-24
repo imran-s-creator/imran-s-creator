@@ -40,5 +40,5 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email:
+- 📧 Email: imramabu12007@gmail.com
 - 🌐 Portfolio: https://imran-portfoliocom.vercel.app/
