@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Imran
-
+<p align="center">
+  <img src="./linkedin-banner.png" width="100%">
+</p>
 
 🚀 Passionate Frontend Developer & Designer  
 🎨 Love creating clean UI & editing visuals  
